@@ -1,0 +1,18 @@
+{
+  "main.css": "/static/css/main.a313c699.chunk.css",
+  "main.js": "/static/js/main.c879d1eb.chunk.js",
+  "main.js.map": "/static/js/main.c879d1eb.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/css/2.2d26fcdc.chunk.css": "/static/css/2.2d26fcdc.chunk.css",
+  "static/js/2.4a73fcfa.chunk.js": "/static/js/2.4a73fcfa.chunk.js",
+  "static/js/2.4a73fcfa.chunk.js.map": "/static/js/2.4a73fcfa.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.98299da7b23557fbbce814d6249d4b5c.js": "/precache-manifest.98299da7b23557fbbce814d6249d4b5c.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.2d26fcdc.chunk.css.map": "/static/css/2.2d26fcdc.chunk.css.map",
+  "static/css/main.a313c699.chunk.css.map": "/static/css/main.a313c699.chunk.css.map",
+  "static/media/chat_location.svg": "/static/media/chat_location.0cb38dea.svg",
+  "static/media/chat_location_current.svg": "/static/media/chat_location_current.7267d3fc.svg",
+  "static/media/chat_location_shadow.svg": "/static/media/chat_location_shadow.cc966781.svg"
+}
