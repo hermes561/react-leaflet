@@ -38,7 +38,7 @@ const schema = Joi.object().keys({
     message: Joi.string().min(1).max(500).required()
 });
 
-const API_URL = window.location.hostname === 'localhost'?'http://localhost:5000/api/v1/messages':'production_url_here'
+const API_URL = window.location.hostname === 'localhost'?'http://localhost:5000/api/v1/messages':'https://thawing-beyond-39791.herokuapp.com/api/v1/messages'
 
 class App extends Component {
     state = {
