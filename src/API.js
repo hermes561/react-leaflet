@@ -1,4 +1,4 @@
-const API_URL = window.location.hostname === 'localhost'?'http://localhost:5000/api/v1/messages':'https://thawing-beyond-39791.herokuapp.com/api/v1/messages'
+const API_URL = window.location.hostname === 'localhost'?'http://localhost:5000/api/v1/messages':'/api/v1/messages'
 
 export function getMesages() {
     return fetch(API_URL)
